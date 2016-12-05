@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="1570" height="260" viewBox="0 0 1570 260">
+  <defs>
+    <style>
+
+      .cls-3 {
+        font-size: 229.167px;
+      }
+
+      .cls-4 {
+        fill: #90cbcc;
+        text-anchor: middle;
+        font-size: 229.167px;
+        font-family: "AvenirNext-UltraLight";
+      }
+
+      .cls-5 {
+        font-size: 62.5px;
+        opacity: 0.3;
+      }
+
+      .cls-6 {
+        fill: #767e7e;
+        text-anchor: middle;
+        font-size: 62.5px;
+        font-family: "FinaleLyrics-Italic";
+        font-style: italic;
+      }
+    </style>
+  </defs>
+  <g id="group-1">
+    <text class="cls-3" x="782px" y="167px"><tspan x="785px" class="cls-4">THE GALLERY</tspan></text>
+    <text class="cls-5" x="785px" y="246px"><tspan x="782px" class="cls-6">stylish. unique. unforgettable.</tspan></text>
+  </g>
+</svg>
