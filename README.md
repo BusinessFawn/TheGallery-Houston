@@ -10,3 +10,6 @@ Secondly, by sanitizing emails on the front end for user-ease and server side fo
 correspondence from perspective customers and eradicate malicious attempts made at the venue owner and staff of the site.
 
 With the two primary goals completed the focus was on a light and appealing feel, site load times, and responsive design throughout the site.
+
+
+http://thegallery-houston.com
